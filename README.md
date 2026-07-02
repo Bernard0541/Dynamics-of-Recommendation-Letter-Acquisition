@@ -43,5 +43,7 @@ If you use this repository in your research, please cite:
 
 **Bernard Asamoah Afful**
 Department of Mathematics and Statistics
+
 Utah State University
+
 Email: bernard.afful@usu.edu
